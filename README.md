@@ -68,9 +68,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# Ol--Mundo-curso
-# Ola-Mundo
-# Ola-Mundo
-# Ol--Mundo-curso
-# Ola-Mundo
-# hello-word-react
+
+# hello-world-react
